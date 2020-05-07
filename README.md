@@ -26,7 +26,7 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2020/subjects/swen90
 
 | Workshop | Topic | Date |
 | ------ | ------ |-----|
-| [Workshop 6]() | `SPARK Tools` | 4 May 2020 - 8 May 2020
+| [Workshop 6](https://github.com/chuangw46/SWEN90010_High_Integrity_Systems/blob/master/Workshop6_SPARKTools.pdf) | `SPARK Tools` | 4 May 2020 - 8 May 2020
 | [Workshop 7]() | `` | 
 | [Workshop 8]() | `` | 
 | [Workshop 9]() | `` | 
